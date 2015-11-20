@@ -1,0 +1,9 @@
+README for PM25EmissionsAnalysis
+
+The Exploratory Data Anaylsis second course project is broken up into 6 parts, each one using a dataset on PM25 (particulate matter up to 2.5 micrometers in size) emissions to investigate its presence in various cities and its sources (e.g. coal combustion, vehicles).
+
+----
+Main Output
+----
+
+Six plots are produced (plot1-plot6.png) from six R scripts (plot1-plot6.R), and all are in the github repo.
