@@ -12,4 +12,4 @@ Six plots are produced (plot1-plot6.png) from six R scripts (plot1-plot6.R), and
 Data
 ----
 
-The RDS file Source_Classification_Code.rds contains the data used for this project.
+The RDS files Source_Classification_Code.rds and summarySCC_PM25.rds contain the data used for this project.
