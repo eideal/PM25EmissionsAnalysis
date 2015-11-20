@@ -7,3 +7,9 @@ Main Output
 ----
 
 Six plots are produced (plot1-plot6.png) from six R scripts (plot1-plot6.R), and all are in the github repo.
+
+----
+Data
+----
+
+The RDS file Source_Classification_Code.rds contains the data used for this project.
